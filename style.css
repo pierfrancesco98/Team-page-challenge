@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Poppins:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.header h1 
+{
+    margin-top: 110px;
+    margin-left: 243px;
+    font-size: 36px;
+    font-family: 'PT Serif', serif;
+    font-weight: 700;
+    color: #000;
+}
+.header_content
+{
+  margin-top: 110px;
+  margin-left: 215px;
+  height: 87px;
+  width: 439px;
+}
+.header_content h4 
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    color: #000;
+}
+.header_content p 
+{
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000;
+}
+.grid-container {
+    margin-top: 96px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    width: 100%;
+    justify-content: center;
+  }
+.grid-card
+{
+  margin: 40px;
+  height: 400px;
+  width: 301px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.grid-card  img 
+{
+  height: 280px;
+  width: 200px;
+  margin-bottom: 15px;
+}
+.grid-container p 
+{
+    position: relative;
+    bottom: 203px;
+    left: 120px;
+    transform: rotate(90deg);
+    font-size: 12px;
+    font-weight: 400;
+    width: 200px;
+}
+ h2 
+{
+    position: relative;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    bottom: 18px;
+    width: 200px;
+}
+.one , .two 
+{
+    margin-top: 130px;
+}
+.footer
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    width: 100%;
+    color: #BDBDBD;
+    text-align: center;
+}
+
+.footer a 
+{
+    text-decoration: none;
+    color: #BDBDBD;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+}
+@media (max-width: 1000px)
+{
+    .header h1 
+    {
+        margin-top: 71px;
+        margin-left: 12px;
+        font-size: 36px;
+    }
+    .header_content
+{
+    margin-left: 12px;
+    margin-top: 38px;
+}
+.header_content h4 
+{
+    font-size:18px;
+}
+.header_content p 
+{
+    font-size: 14px;
+    width: 300px;
+}
+    .grid-container
+    {
+        grid-template-columns: auto auto;
+    }
+    .grid-card
+    {
+        height: 284px;
+        width: 160px;
+        margin: 10px;
+    }
+    .grid-card img
+    {
+        height: 180px;
+        width: 120px;
+    }
+    h2 
+    {
+        font-size: 14px;
+        width: 120px;
+    }
+    .grid-container p 
+    {
+        font-size: 10px;
+        bottom: 100px;
+        left: 73px;
+    }
+    .one, .four, .three
+    {
+        margin-top: 50px
+    }
+    .footer p
+    {
+        font-size: 14px;
+    }
+    .footer a 
+    {
+        font-size: 14px;
+    }
+}
