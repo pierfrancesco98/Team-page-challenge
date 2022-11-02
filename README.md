@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Team page challenge}</h1>
+<h1 align="center">Team page challenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://pisaniwebdesign.com/pagina/Team-challenge}">
+    <a href="https://https://pisaniwebdesign.com/pagina/Team-challenge">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://devchallenges.io/solutions/u6J2gy08mcFKH46TiSyS}">
+    <a href="https://https://devchallenges.io/solutions/u6J2gy08mcFKH46TiSyS">
       Solution
     </a>
     <span> | </span>
@@ -38,18 +38,8 @@
 
 ![screenshot](https://github.com/pierfrancesco98/Team-page-challenge/blob/main/Team.PNG?raw=true)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
-### Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
@@ -66,5 +56,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [pisaniwebdesign.com](https://{pisaniwebdesign.com})
-- GitHub [@pierfrancesco98](https://{https://github.com/pierfrancesco98})
+- Website [pisaniwebdesign.com](https://pisaniwebdesign.com)
+- GitHub [@pierfrancesco98](https://https://github.com/pierfrancesco98)
